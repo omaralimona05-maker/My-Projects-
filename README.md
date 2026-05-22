@@ -122,7 +122,6 @@ Install all: `pip install -r requirements.txt`
 **Ali Yasser** — AI Department Student
 
 - 🎯 Interests: Neural Networks · Deep Learning · Computer Vision · Recommender Systems · Intelligent Systems
-- 📐 Math background: Calculus · Linear Algebra · Probability · Optimization · Numerical Methods
 - 🔗 GitHub: [@omaralimona05-maker](https://github.com/omaralimona05-maker)
 - 📧 Email:omaralimona05@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/ali-yasser-350799328/
